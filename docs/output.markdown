@@ -4,7 +4,7 @@ title: data output
 permalink: /output/
 ---
 
-Most of the console output for the empirical analysis has been saved into csv files and are available in the [github repo](https://github.com/jnpm/heston/tree/master/docs/data){:target="_blank"}.
+Most of the console output for the empirical analysis has been saved into csv files and are available in the [github repo](https://github.com/jnpm/heston/tree/main/docs/data){:target="_blank"}.
 
 | Description | File |
 | ------- | ----------- |
