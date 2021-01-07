@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/jnpm/heston/blob/main/LICENSE)
 
-## Seminar in Empirical Finance Winter Term 20/21
+## Seminar in Empirical Finance (Winter Term 20/21)
 
 This repository includes the code and supplementary material for the seminar paper on the Heston model.
 
