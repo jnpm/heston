@@ -1,0 +1,9 @@
+scipy==1.5.3
+pandas==1.1.4
+matplotlib==3.3.2
+optimparallel==0.1.1
+numba==0.51.2
+kaleido==0.0.3.post1
+plotly==4.13.0
+numpy==1.19.2
+rich==9.6.1

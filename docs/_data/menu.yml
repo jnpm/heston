@@ -1,0 +1,18 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: this page provides supplementary material for the empirical analysis such as interactive graphs, tables and data output for the <a href='#'>seminar paper</a> on the Heston model during the winter term 20/21 at Kiel University
+      - title: github repo
+        url: https://github.com/jnpm/heston
+  
+  - title: data
+    entries:
+      - title: interactive graphs
+        url: graphs
+      - title: option chain
+        url: table
+      - title: data output (csv download)
+        url: output
